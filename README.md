@@ -1,16 +1,26 @@
-## Hi there 👋
+# Luis Jiménez — Frontend Developer
 
-<!--
-**luisjim746/luisjim746** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m focused on building practical web projects with HTML, CSS and JavaScript.
+Currently improving my JavaScript skills and starting with React.
 
-Here are some ideas to get you started:
+## Main focus
+- Semantic HTML
+- Responsive CSS
+- Vanilla JavaScript
+- DOM manipulation
+- Forms and validation
+- LocalStorage
+- Git and GitHub
+- React soon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+### NexoCRM
+Mini CRM dashboard built with HTML, CSS and vanilla JavaScript.
+It includes dynamic rendering, filters, inline status editing, form validation and localStorage persistence.
+
+Live demo: [View the live project](https://luisjim746.github.io/nexocrm/)
+Repository: [View the source code](https://github.com/luisjim746/nexocrm)
+
+## Contact
+LinkedIn: [www.linkedin.com/in/luis-j-82ba372b5]
+Portfolio: coming soon
