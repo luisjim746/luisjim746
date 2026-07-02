@@ -1,7 +1,6 @@
-# Luis Jiménez — Frontend Developer
+# Luis Jiménez — Frontend Developer 
 
-I’m focused on building practical web projects with HTML, CSS and JavaScript.
-Currently improving my JavaScript skills and starting with React.
+I’m focused on building practical frontend projects with HTML, CSS and JavaScript. Currently improving my JavaScript skills, starting with React and exploring AI-assisted development workflows.
 
 ## Main focus
 - Semantic HTML
@@ -12,6 +11,12 @@ Currently improving my JavaScript skills and starting with React.
 - LocalStorage
 - Git and GitHub
 - React soon
+
+## How I use AI in my workflow
+
+I use AI tools as a learning and productivity assistant to brainstorm project ideas, improve UX decisions, explore implementation approaches, review code and document projects more clearly.
+
+I always aim to understand, adapt and validate the code before adding it to my projects.
 
 ## Featured project
 ### NexoCRM
